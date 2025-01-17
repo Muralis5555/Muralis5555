@@ -3,7 +3,7 @@
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Your+Awesome+Banner+Here)
 
 ## 👋 About Me
-Hi, I’m **Murali S**! I’m a passionate developer who loves building things with code.
+Hi, I’m **Murali Sankar**! I’m a passionate developer who loves building things with code.
 - 🌱 I’m currently learning [technology you’re exploring].
 - 🔭 I’m working on [your project].
 - 💬 Ask me about [topics you’re knowledgeable in].
