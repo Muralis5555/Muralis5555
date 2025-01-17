@@ -5,7 +5,7 @@
 ## 👋 About Me
 Hi, I’m **Murali Sankar**! I’m a passionate developer who loves building things with code.
 - 🌱 I’m currently learning Tearraform.
-- 🔭 I’m working on [your project].
+- 🔭 I’m working on the project B
 - 💬 Ask me about [topics you’re knowledgeable in].
 - 📫 Reach me at: [your email or social media links].
 
